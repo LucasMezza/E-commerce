@@ -1,0 +1,14 @@
+.weather-data{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    color: black;
+    background-image: url('../../../../../images/sports2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    width: 100%;
+    padding: 2rem 6rem; 
+}
