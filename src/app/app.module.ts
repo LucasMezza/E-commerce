@@ -8,7 +8,6 @@ import { FooterComponent } from './components/footer/footer.component';
 import { IndexComponent } from './components/index/index.component';
 import { HeaderBannerComponent } from './components/index/principal/header-banner/header-banner.component';
 import { CatalogoComponent } from './components/index/principal/catalogo/catalogo.component';
-import { ProductCardComponent } from './components/index/principal/catalogo/product-card/product-card.component';
 import { FooterBannerComponent } from './components/index/principal/footer-banner/footer-banner.component';
 import { ProductComponent } from './components/index/product/product.component';
 import { CartComponent } from './components/index/cart/cart.component';
@@ -32,7 +31,6 @@ import { ListUsersComponent } from './components/index/list-users/list-users.com
     IndexComponent,
     HeaderBannerComponent,
     CatalogoComponent,
-    ProductCardComponent,
     FooterBannerComponent,
     ProductComponent,
     CartComponent,
