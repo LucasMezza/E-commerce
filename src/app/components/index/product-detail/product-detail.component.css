@@ -1,0 +1,50 @@
+.card{
+    margin: 5rem 0 !important;
+}
+
+.fondo img{
+    height: 70vh;
+    width: 60vw;
+}
+
+.card-bg{
+    background-color: #202020;
+    box-shadow: -5px 5px 15px black;
+    color: white;
+    padding: .4rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.fondo{
+    background-color: #e0e0e0;
+    margin: 5px auto;
+    width: 96%;
+}
+
+.inputs input{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 25px 20px 25px 4px;
+}
+
+.btn{
+    background-color: #ff814f;
+    border-radius: 25px;
+    padding: .5rem;
+    border: none;
+    margin-bottom: .6rem;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.card-body p{
+    font-size: 23px;
+}
+
+.card-body #precio{
+    font-weight: bolder;
+    font-size: 28px;
+}
+
